@@ -1,0 +1,10 @@
+D:\VS 项目(1)\Sochel\客户端\obj\Debug\客户端.csproj.AssemblyReference.cache
+D:\VS 项目(1)\Sochel\客户端\obj\Debug\客户端.Form1.resources
+D:\VS 项目(1)\Sochel\客户端\obj\Debug\客户端.Properties.Resources.resources
+D:\VS 项目(1)\Sochel\客户端\obj\Debug\客户端.csproj.GenerateResource.cache
+D:\VS 项目(1)\Sochel\客户端\obj\Debug\客户端.csproj.CoreCompileInputs.cache
+D:\VS 项目(1)\Sochel\客户端\bin\Debug\客户端.exe.config
+D:\VS 项目(1)\Sochel\客户端\bin\Debug\客户端.exe
+D:\VS 项目(1)\Sochel\客户端\bin\Debug\客户端.pdb
+D:\VS 项目(1)\Sochel\客户端\obj\Debug\客户端.exe
+D:\VS 项目(1)\Sochel\客户端\obj\Debug\客户端.pdb

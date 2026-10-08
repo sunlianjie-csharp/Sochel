@@ -1,0 +1,10 @@
+D:\VS 项目(1)\Sochel\简介聊天室\bin\Debug\简介聊天室.exe.config
+D:\VS 项目(1)\Sochel\简介聊天室\bin\Debug\简介聊天室.exe
+D:\VS 项目(1)\Sochel\简介聊天室\bin\Debug\简介聊天室.pdb
+D:\VS 项目(1)\Sochel\简介聊天室\obj\Debug\简介聊天室.csproj.AssemblyReference.cache
+D:\VS 项目(1)\Sochel\简介聊天室\obj\Debug\简介聊天室.Form1.resources
+D:\VS 项目(1)\Sochel\简介聊天室\obj\Debug\简介聊天室.Properties.Resources.resources
+D:\VS 项目(1)\Sochel\简介聊天室\obj\Debug\简介聊天室.csproj.GenerateResource.cache
+D:\VS 项目(1)\Sochel\简介聊天室\obj\Debug\简介聊天室.csproj.CoreCompileInputs.cache
+D:\VS 项目(1)\Sochel\简介聊天室\obj\Debug\简介聊天室.exe
+D:\VS 项目(1)\Sochel\简介聊天室\obj\Debug\简介聊天室.pdb
